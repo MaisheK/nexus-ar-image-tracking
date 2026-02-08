@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Ga" size="1.000000 0.562500" />
+    <ImageTarget name="Kaf" size="1.000000 0.562500" />
+    <ImageTarget name="Nya" size="1.000000 0.562500" />
+    <ImageTarget name="Ye" size="1.000000 0.562500" />
+    <ImageTarget name="Ya" size="1.000000 0.562500" />
+    <ImageTarget name="Hamzah" size="1.000000 0.562500" />
+    <ImageTarget name="HaBulat" size="1.000000 0.562500" />
+    <ImageTarget name="Va" size="1.000000 0.562500" />
+    <ImageTarget name="Wau" size="1.000000 0.562500" />
+    <ImageTarget name="Nun" size="1.000000 0.562500" />
+    <ImageTarget name="Mim" size="1.000000 0.562500" />
+    <ImageTarget name="Lam" size="1.000000 0.562500" />
+    <ImageTarget name="Pa" size="1.000000 0.562500" />
+    <ImageTarget name="Qaf" size="1.000000 0.562500" />
+    <ImageTarget name="Fa" size="1.000000 0.562500" />
+    <ImageTarget name="Nga" size="1.000000 0.562500" />
+    <ImageTarget name="Ghain" size="1.000000 0.562500" />
+    <ImageTarget name="Ain" size="1.000000 0.562500" />
+    <ImageTarget name="Zo" size="1.000000 0.562500" />
+    <ImageTarget name="To" size="1.000000 0.562500" />
+    <ImageTarget name="Dhod" size="1.000000 0.562500" />
+    <ImageTarget name="Sod" size="1.000000 0.562500" />
+    <ImageTarget name="Syin" size="1.000000 0.562500" />
+    <ImageTarget name="Sin" size="1.000000 0.562500" />
+    <ImageTarget name="Zai" size="1.000000 0.562500" />
+    <ImageTarget name="Ro" size="1.000000 0.562500" />
+    <ImageTarget name="Zal" size="1.000000 0.562500" />
+    <ImageTarget name="Dal" size="1.000000 0.562500" />
+    <ImageTarget name="Kho" size="1.000000 0.562500" />
+    <ImageTarget name="Ha" size="1.000000 0.562500" />
+    <ImageTarget name="Ca" size="1.000000 0.562500" />
+    <ImageTarget name="Jim" size="1.000000 0.562500" />
+    <ImageTarget name="Sa" size="1.000000 0.562500" />
+    <ImageTarget name="TaMarbutah" size="1.000000 0.562500" />
+    <ImageTarget name="Ta" size="1.000000 0.562500" />
+    <ImageTarget name="Ba" size="1.000000 0.562500" />
+    <ImageTarget name="Alif" size="1.000000 0.562500" />
+  </Tracking>
+</QCARConfig>

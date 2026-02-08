@@ -1,0 +1,438 @@
+newmtl acmat_0
+Kd 0.8 0.8 0.8
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 250
+Tr 0
+newmtl acmat_1
+Kd 0.8 0.8 0.8
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 250
+Tr 0
+map_Kd poolChair_RED_COL_2k.png
+newmtl acmat_2
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2022-08-04_132948xy01.jpg
+newmtl acmat_3
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 15744-v1.jpg
+newmtl acmat_4
+Kd 0.8 0.8 0.8
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 250
+Tr 0
+map_Kd poolChair_YELLOW_COL_2k.png
+newmtl acmat_5
+Kd 0.8 0.8 0.8
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 250
+Tr 0
+map_Kd poolChair_GREEN_COL_2k.png
+newmtl acmat_6
+Kd 0.8 0.8 0.8
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 250
+Tr 0
+map_Kd poolChair_BLUE_COL_2k.png
+newmtl acmat_7
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_8
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd BH-1.jpg
+newmtl acmat_9
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-11-10_145527 KopieBlau Kopie02 Kopie02.jpg
+newmtl acmat_10
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-11-10_145527 Kopie07.jpg
+newmtl acmat_11
+Kd 1 1 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 128
+Tr 8.32371e-43
+map_Kd 2023-07-27_162823.jpg
+newmtl acmat_12
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Schwarz.jpg
+newmtl acmat_13
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-130ZQ13R94C.jpg
+newmtl acmat_14
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2022-10-08_203920.jpg
+newmtl acmat_15
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd AS350_B2_phong_couleur_claire_AlbedoTransp.png
+newmtl acmat_16
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 3dtxt024.jpg
+newmtl acmat_17
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-12-11_202131 Kopie.jpg
+newmtl acmat_18
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-130ZQ14P1S4.jpg
+newmtl acmat_19
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-04-02_002745.jpg
+newmtl acmat_20
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-08-10_231921.jpg
+newmtl acmat_21
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-11-10_145527 Kopie07.jpg
+newmtl acmat_22
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 170_etalbond_texturedfarbe_932_TRsienarosso Kopie02.jpg
+newmtl acmat_23
+Kd 0 0 0
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0.152632
+map_Kd zaun_a.png
+newmtl acmat_24
+Kd 0.8 0.8 0.8
+Ka 0.146789 0.146789 0.146789
+Ks 1 1 1
+Ns 448.9
+Tr 0
+newmtl acmat_25
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 250
+Tr 0
+map_Kd 5-soccer-lines.png
+newmtl acmat_26
+Kd 0.433647 0.433647 0.433647
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 250
+Tr 0
+newmtl acmat_27
+Kd 0.003701 0.201869 0
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 250
+Tr 0
+newmtl acmat_28
+Kd 1 0.137426 0
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_29
+Kd 0 0 0
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_30
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_31
+Kd 0.8 0 0
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_32
+Kd 0.0578026 0.0578026 0.0578026
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_33
+Kd 0.517334 0.517334 0.517334
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_34
+Kd 0.447979 0.447979 0.447979
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_35
+Kd 0.8 0.8 0.8
+Ka 0 0 0
+Ks 0 0 0
+Ns 25
+Tr 1
+newmtl acmat_36
+Kd 0.588235 0.588235 0.588235
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Tennis Court Color Texture.fw.png
+newmtl acmat_37
+Kd 0.588235 0.588235 0.588235
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Tennis Court Texture.fw.png
+newmtl acmat_38
+Kd 0 0.152941 0
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_39
+Kd 0.972549 0.972549 0.972549
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_40
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 50133160-glass-texture.jpg
+newmtl acmat_41
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-05-30_220458 Kopie.jpg
+newmtl acmat_42
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2022-10-12_195536.jpg
+newmtl acmat_43
+Kd 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-11-10_145527 Kopie07.jpg
+newmtl acmat_44
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd istockphoto-945589374-612x612.jpg
+newmtl acmat_45
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd IMG_20240723_170335.jpg
+newmtl acmat_46
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2025-01-24_064210.jpg
+newmtl acmat_47
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-07-11_000944.jpg
+newmtl acmat_48
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Glas-6 Kopie01.jpg
+newmtl acmat_49
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Glas-5.jpg
+newmtl acmat_50
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_51
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-11-10_145527 KopieBlau Kopie05.jpg
+newmtl acmat_52
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-11-10_145527 Kopie08.jpg
+newmtl acmat_53
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-11-10_145527 Kopie hellblau02.jpg
+newmtl acmat_54
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd water01.jpg
+newmtl acmat_55
+Kd 0.435294 0.223529 0.0470588
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_56
+Kd 0.878431 0.878431 0.878431
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_57
+Kd 0.00784314 0.309804 0.639216
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_58
+Kd 0.588235 0.588235 0.588235
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_59
+Kd 0.0196078 0.560784 0.686275
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_60
+Kd 0.85098 0.584314 0
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_61
+Kd 0.247059 0.431373 0.0235294
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_62
+Kd 0.529412 0.588235 0.607843
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_63
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd hubschrauberlandeplatz-sticker.jpg
+newmtl acmat_64
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-11-10_145527 KopieBlau Kopie05.jpg
+newmtl acmat_65
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1000_F_ Kopie.jpg

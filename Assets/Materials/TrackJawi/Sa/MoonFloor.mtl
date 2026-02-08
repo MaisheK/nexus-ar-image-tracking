@@ -1,0 +1,132 @@
+# Blender MTL File: 'MoonFloor.blend'
+# Material Count: 12
+
+newmtl Fins
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\jroma\\Documents\\Fins_Transparent.png
+map_d C:\\Users\\jroma\\Documents\\Fins_Transparent.png
+
+newmtl Fish
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\jroma\\Documents\\Fish.png
+
+newmtl OUTLINE
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Sign
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\jroma\\Documents\\Sign.png
+
+newmtl Snow
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.868886 0.868886 0.868886
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\jroma\\Documents\\Custom\\Models\\Snow Field\\Textures\\Snow (Custom).png
+
+newmtl Snowflake
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Spec
+Ns 299.919407
+Ka 1.000000 1.000000 1.000000
+Kd 0.234551 0.651406 0.737911
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Tree
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.039210 0.157432 0.014575
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\jroma\\Documents\\Tree.png
+
+newmtl Tree_Pointy
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\jroma\\Documents\\Tree_Pointy.png
+
+newmtl Tree_Tall
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd .
+
+newmtl Water
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.450786 0.806952 0.783538
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.500000
+illum 1
+map_Kd C:\\Users\\jroma\\Documents\\Custom\\Models\\Snow Field\\Textures\\Water (Custom).png
+
+newmtl Water_Under
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\jroma\\Documents\\Custom\\Models\\Snow Field\\Textures\\Water-UNDER (Custom).png
